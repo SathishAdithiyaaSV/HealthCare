@@ -11,7 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "@google/generative-ai": "^0.22.0",
+    "@google/generative-ai": "^0.24.0",
     "agora-access-token": "^2.0.4",
     "axios": "^1.7.9",
     "bcryptjs": "^3.0.2",
