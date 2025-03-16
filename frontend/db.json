@@ -1,0 +1,23 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "name": "Dr. John Doe",
+      "specialty": "Cardiologist"
+    },
+    {
+      "id": "2",
+      "name": "Dr. Jane Smith",
+      "specialty": "Pediatrician"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "464f",
+      "doctorId": "1",
+      "doctorName": "Dr. John Doe",
+      "date": "2025-01-24",
+      "time": "02:08"
+    }
+  ]
+}

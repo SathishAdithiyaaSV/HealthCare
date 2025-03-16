@@ -1,0 +1,26 @@
+
+version: 2
+updates:
+  # Backend (Node.js & Express)
+  - package-ecosystem: "npm"
+    directory: "/backend"  # Adjust if your backend is in a different folder
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "gouravanirudh05"
+  
+  # Frontend (React)
+  - package-ecosystem: "npm"
+    directory: "/frontend"  # Adjust if your frontend is in a different folder
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 5
+    reviewers:
+      - "gouravanirudh05"
+
+  # # GitHub Actions (if using CI/CD)
+  # - package-ecosystem: "github-actions"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "weekly"
