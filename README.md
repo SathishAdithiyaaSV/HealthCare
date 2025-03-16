@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/SathishAdithiyaaSV/HealthSync">
+  <a href="https://github.com/SathishAdithiyaaSV/HealthCare">
     <img src="frontend/src/assets/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,7 +18,7 @@
   <p align="center">
   Health Project is a modern web application designed to provide an efficient and user-friendly platform for healthcare management. With features such as location-based hospital mapping, dynamic health blogs, and an integrated chatbot, this platform caters to both patients and healthcare professionals.
     <br />
-    <a href="https://github.com/SathishAdithiyaaSV/HealthSync"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/SathishAdithiyaaSV/HealthCare"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
@@ -235,7 +235,7 @@ MONGO_URI=your_mongodb_connection_uri_here
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/SathishAdithiyaaSV/HealthSync
+   git clone https://github.com/SathishAdithiyaaSV/HealthCare
    ```
 2. Install NPM packages
    ```sh
@@ -333,7 +333,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/SathishAdithiyaaSV/healthsync?style=for-the-badge
-[contributors-url]: https://github.com/SathishAdithiyaaSV/HealthSync/graphs/contributors
+[contributors-url]: https://github.com/SathishAdithiyaaSV/HealthCare/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SathishAdithiyaaSV/healthsync.svg?style=for-the-badge
 [forks-url]: https://github.com/SathishAdithiyaaSV/lingo-land/network/members
 [stars-shield]: https://img.shields.io/github/stars/SathishAdithiyaaSV/lingo-land.svg?style=for-the-badge
