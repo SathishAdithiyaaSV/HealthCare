@@ -290,7 +290,25 @@ The landing page features a dynamic map displaying nearby hospitals, utilizing d
 * Admins: Oversee platform operations, including user management and content updates.
   
 
+## Testing ID's
 
+* Doctor:
+```
+Username: doctor1@gmail.com
+Password: hello
+```
+
+* Patient
+```
+Username:patient1@gmail.com
+Password: hello
+```
+
+* Admin
+```
+Username:admin1@gmail.com
+Password: hello
+```
 
 
 <!-- _For more examples, please refer to the [Documentation](https://example.com)_ -->
@@ -315,8 +333,8 @@ Don't forget to give the project a star! Thanks again!
 
 ### Top contributors:
 
-<a href="https://github.com/SathishAdithiyaaSV/lingo-land/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=SathishAdithiyaaSV/lingo-land" alt="contrib.rocks image" />
+<a href="https://github.com/SathishAdithiyaaSV/HealthCare/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=SathishAdithiyaaSV/HealthCare" alt="contrib.rocks image" />
 </a>
 
 
@@ -335,12 +353,12 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [contributors-shield]: https://img.shields.io/github/contributors/SathishAdithiyaaSV/healthsync?style=for-the-badge
 [contributors-url]: https://github.com/SathishAdithiyaaSV/HealthCare/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/SathishAdithiyaaSV/healthsync.svg?style=for-the-badge
-[forks-url]: https://github.com/SathishAdithiyaaSV/lingo-land/network/members
-[stars-shield]: https://img.shields.io/github/stars/SathishAdithiyaaSV/lingo-land.svg?style=for-the-badge
-[stars-url]: https://github.com/SathishAdithiyaaSV/lingo-land/stargazers
-[issues-shield]: https://img.shields.io/github/issues/SathishAdithiyaaSV/lingo-land.svg?style=for-the-badge
-[issues-url]: https://github.com/SathishAdithiyaaSV/lingo-land/issues
-[license-shield]: https://img.shields.io/github/license/SathishAdithiyaaSV/lingo-land.svg?style=for-the-badge
+[forks-url]: https://github.com/SathishAdithiyaaSV/HealthCare/network/members
+[stars-shield]: https://img.shields.io/github/stars/SathishAdithiyaaSV/HealthCare.svg?style=for-the-badge
+[stars-url]: https://github.com/SathishAdithiyaaSV/HealthCare/stargazers
+[issues-shield]: https://img.shields.io/github/issues/SathishAdithiyaaSV/HealthCare.svg?style=for-the-badge
+[issues-url]: https://github.com/SathishAdithiyaaSV/HealthCare/issues
+[license-shield]: https://img.shields.io/github/license/SathishAdithiyaaSV/HealthCare.svg?style=for-the-badge
 [license-url]: https://github.com//SathishAdithiyaaSV/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
